@@ -1,4 +1,4 @@
-# WebsiteResponsivo_2_Com_Bootstrap
+# Website Responsivo 2 Com Bootstrap
 
 ![image](https://github.com/JoaoEduSB/WebsiteResponsivo_2_Com_Bootstrap/assets/146045770/bb38e89f-3a8a-44e3-b19b-d9ecb3a98204)
 
